@@ -1,0 +1,1 @@
+Here, I randomly chose a dataset from kaggle which is related to our task. I analysis sales data using python.
